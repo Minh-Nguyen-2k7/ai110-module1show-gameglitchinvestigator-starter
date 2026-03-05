@@ -5,8 +5,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+Answer: The first time I ran it, it seems normal, the hints were there, and I was guessing normally. 
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
++ The hints were useless and it was backwards, so it was impossible to guess the correct numbers.
++ I couldn't reset the game using the button at all, so I had to manually reset the website.
 
 ---
 
